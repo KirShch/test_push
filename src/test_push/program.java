@@ -11,13 +11,10 @@ public class program {
 		System.out.printf("new number = %.3f \n",(a+2.153456789f));
 		String s = Integer.toString(a);
 		System.out.println(s);
-		System.out.println("Check git");
 		
-		System.out.println("Check git");
 		
-		System.out.println("Check git");
 		
-		System.out.println("Check git");
+		
 	}
 
 }
