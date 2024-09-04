@@ -8,12 +8,13 @@ public class program {
 		System.out.println("asdasdas");
 		int a = (new Scanner(System.in)).nextInt();
 		System.out.println(a);
-		System.out.printf("new number = %.3f \n",(a+2.153456789f));
+		System.out.printf("new number = %.3f \n",(a+2.113456789f));
 		String s = Integer.toString(a);
 		System.out.println(s);
 		
 		
-		
+		System.out.println(s);
+		System.out.println(s);
 		
 	}
 
